@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blrrryface.github.io</id>
+    <title>Blrrryface</title>
+    <updated>2022-08-09T19:44:27.708Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blrrryface.github.io"/>
+    <link rel="self" href="https://blrrryface.github.io/atom.xml"/>
+    <logo>https://blrrryface.github.io/images/avatar.png</logo>
+    <icon>https://blrrryface.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Blrrryface</rights>
+    <entry>
+        <title type="html"><![CDATA[关于双指针的一些小思考]]></title>
+        <id>https://blrrryface.github.io/post/test/</id>
+        <link href="https://blrrryface.github.io/post/test/">
+        </link>
+        <updated>2022-08-05T17:54:23.000Z</updated>
+        <content type="html"><![CDATA[<p>test 会尽快到 萨达很快就副科级放点绿色卡接发的数据库浪费的时间弗兰克圣诞节里看风景里看风景时大连科技烦死了大姐夫看来都是荆防颗粒的设计费看垃圾毒素浪费就是大佬积分萨迪克了房间里萨克的就</p>
+]]></content>
+    </entry>
+</feed>
